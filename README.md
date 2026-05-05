@@ -14,6 +14,22 @@ No original reference screenshots or source images are included.
 
 ![Ano contact sheet](preview/contact-sheet.png)
 
+## Animated Previews
+
+GitHub repository pages reliably auto-loop inline GIFs, so each action is embedded below as a GIF. The original MP4 for each action is also included for download.
+
+| Action | Looping preview | MP4 |
+| --- | --- | --- |
+| `idle` | ![idle](preview/gifs/idle.gif) | [idle.mp4](preview/videos/idle.mp4) |
+| `running-right` | ![running-right](preview/gifs/running-right.gif) | [running-right.mp4](preview/videos/running-right.mp4) |
+| `running-left` | ![running-left](preview/gifs/running-left.gif) | [running-left.mp4](preview/videos/running-left.mp4) |
+| `waving` | ![waving](preview/gifs/waving.gif) | [waving.mp4](preview/videos/waving.mp4) |
+| `jumping` | ![jumping](preview/gifs/jumping.gif) | [jumping.mp4](preview/videos/jumping.mp4) |
+| `failed` | ![failed](preview/gifs/failed.gif) | [failed.mp4](preview/videos/failed.mp4) |
+| `waiting` | ![waiting](preview/gifs/waiting.gif) | [waiting.mp4](preview/videos/waiting.mp4) |
+| `running` | ![running](preview/gifs/running.gif) | [running.mp4](preview/videos/running.mp4) |
+| `review` | ![review](preview/gifs/review.gif) | [review.mp4](preview/videos/review.mp4) |
+
 ## Install
 
 Copy the pet files into your Codex pets directory:
